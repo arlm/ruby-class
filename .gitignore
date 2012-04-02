@@ -1,0 +1,3 @@
+*.log
+blog/tmp/sessions
+blog-borland/tmp/sessions
